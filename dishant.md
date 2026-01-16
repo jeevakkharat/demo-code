@@ -1,4 +1,4 @@
-# Welcome to My Learning Journey
+# Welcome to My Online Sessions
 
 Hello! I'm Dishant, a learner at upGrad Learning Centre. I'm passionate about full-stack development and eager to expand my skills in modern web technologies.
 
